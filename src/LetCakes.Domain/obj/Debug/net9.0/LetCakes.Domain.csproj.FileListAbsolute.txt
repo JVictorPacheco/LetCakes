@@ -1,0 +1,12 @@
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\bin\Debug\net9.0\LetCakes.Domain.deps.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\bin\Debug\net9.0\LetCakes.Domain.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\bin\Debug\net9.0\LetCakes.Domain.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.AssemblyInfoInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.AssemblyInfo.cs
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.sourcelink.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\refint\LetCakes.Domain.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\LetCakes.Domain.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Domain\obj\Debug\net9.0\ref\LetCakes.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Infrastructure.deps.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Infrastructure.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Infrastructure.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Domain.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Domain.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.AssemblyInfo.cs
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.sourcelink.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.9EB977C0.Up2Date
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\refint\LetCakes.Infrastructure.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\ref\LetCakes.Infrastructure.dll

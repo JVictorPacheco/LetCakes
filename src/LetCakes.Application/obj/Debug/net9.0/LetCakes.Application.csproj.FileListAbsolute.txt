@@ -1,0 +1,16 @@
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\bin\Debug\net9.0\LetCakes.Application.deps.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\bin\Debug\net9.0\LetCakes.Application.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\bin\Debug\net9.0\LetCakes.Application.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\bin\Debug\net9.0\LetCakes.Domain.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\bin\Debug\net9.0\LetCakes.Domain.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.csproj.AssemblyReference.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.AssemblyInfoInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.AssemblyInfo.cs
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.csproj.CoreCompileInputs.cache
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.sourcelink.json
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.F6AFCE1A.Up2Date
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\refint\LetCakes.Application.dll
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\LetCakes.Application.pdb
+C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Application\obj\Debug\net9.0\ref\LetCakes.Application.dll
