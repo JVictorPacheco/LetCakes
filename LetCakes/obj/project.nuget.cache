@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhfAYTfiWAU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\LetCakes\\LetCakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvpacheco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\jvpacheco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

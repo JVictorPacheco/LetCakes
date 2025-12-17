@@ -1,0 +1,6 @@
+@LetCakes_HostAddress = http://localhost:5280
+
+GET {{LetCakes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
