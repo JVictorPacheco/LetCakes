@@ -1,0 +1,63 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:16-alpine
+    container_name: letcakes-postgres
+    environment:
+      POSTGRES_USER: letcakes
+      POSTGRES_PASSWORD: letcakes123
+      POSTGRES_DB: letcakesdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - letcakes-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U letcakes"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # pgAdmin
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: letcakes-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@letcakes.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    networks:
+      - letcakes-network
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+  # LetCakes API
+  letcakes-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: letcakes-api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=letcakesdb;Username=letcakes;Password=letcakes123
+    ports:
+      - "8080:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - letcakes-network
+
+networks:
+  letcakes-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  pgadmin_data:
