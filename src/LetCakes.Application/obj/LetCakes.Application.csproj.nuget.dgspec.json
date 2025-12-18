@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj": {}
+    "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Application/LetCakes.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj": {
+    "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Application/LetCakes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj",
+        "projectUniqueName": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Application/LetCakes.Application.csproj",
         "projectName": "LetCakes.Application",
-        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj",
-        "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\obj\\",
+        "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Application/LetCakes.Application.csproj",
+        "packagesPath": "/Users/joaopacheco/.nuget/packages/",
+        "outputPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/joaopacheco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
-                "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
+              "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj": {
+                "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj"
               }
             }
           }
@@ -81,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+    "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "projectUniqueName": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj",
         "projectName": "LetCakes.Domain",
-        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
-        "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
+        "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj",
+        "packagesPath": "/Users/joaopacheco/.nuget/packages/",
+        "outputPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/joaopacheco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

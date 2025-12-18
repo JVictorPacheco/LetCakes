@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LetCakes.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0557f2c67fdba23ed58e09c56189d88ae5de418d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f94c65101556642d9ac16fb6596b0adf2a17e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("LetCakes.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LetCakes.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
