@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj": {}
+    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {}
   },
   "projects": {
-    "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj": {
+    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
         "projectName": "LetCakes.Domain",
-        "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/LetCakes.Domain.csproj",
-        "packagesPath": "/Users/joaopacheco/.nuget/packages/",
-        "outputPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.Domain/obj/",
+        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/joaopacheco/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

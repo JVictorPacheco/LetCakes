@@ -2171,19 +2171,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/joaopacheco/.nuget/packages/": {}
+    "C:\\Users\\jvpacheco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/tests/LetCakes.IntegrationTests/LetCakes.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.IntegrationTests\\LetCakes.IntegrationTests.csproj",
       "projectName": "LetCakes.IntegrationTests",
-      "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/tests/LetCakes.IntegrationTests/LetCakes.IntegrationTests.csproj",
-      "packagesPath": "/Users/joaopacheco/.nuget/packages/",
-      "outputPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/tests/LetCakes.IntegrationTests/obj/",
+      "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.IntegrationTests\\LetCakes.IntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joaopacheco/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -2195,8 +2195,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.API/LetCakes.API.csproj": {
-              "projectPath": "/Users/joaopacheco/Desktop/C#-.net/LetCakes/LetCakes/src/LetCakes.API/LetCakes.API.csproj"
+            "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.API\\LetCakes.API.csproj": {
+              "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.API\\LetCakes.API.csproj"
             }
           }
         }
@@ -2250,7 +2250,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -2259,7 +2259,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.",
+      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 16.0.0 foi resolvida.",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net9.0"
