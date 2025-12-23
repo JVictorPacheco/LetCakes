@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LetCakes.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5742d3fb9521d615a347402ceebf308e7c1b8e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ca51e7a3380698787da28c9053ee307ae46cb41")]
 [assembly: System.Reflection.AssemblyProductAttribute("LetCakes.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LetCakes.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
