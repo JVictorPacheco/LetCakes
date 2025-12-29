@@ -22,6 +22,14 @@ public class AppDbContext : DbContext
     // Exemplo: public DbSet<Product> Products => Set<Product>();
     // Exemplo: public DbSet<Customer> Customers => Set<Customer>();
 
+
+
+
+
+
+
+    
+
     /// <summary>
     /// Configuração do modelo de dados (fluent API).
     /// Aplica configurações de todas as entidades automaticamente.
@@ -61,6 +69,8 @@ public class AppDbContext : DbContext
         }
     }
 
+
+
     /// <summary>
     /// Sobrescreve o método SaveChangesAsync para aplicar lógica automática
     /// de auditoria (CreatedAt, UpdatedAt) antes de salvar no banco.
@@ -90,6 +100,8 @@ public class AppDbContext : DbContext
 
         return base.SaveChangesAsync(cancellationToken);
     }
+
+
 
     /// <summary>
     /// Sobrescreve o método SaveChanges (síncrono) para aplicar a mesma lógica.
