@@ -14,3 +14,5 @@ C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\Le
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\refint\LetCakes.Infrastructure.dll
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.pdb
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\ref\LetCakes.Infrastructure.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\bin\Debug\net9.0\LetCakes.Infrastructure.runtimeconfig.json
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.Infrastructure\obj\Debug\net9.0\LetCakes.Infrastructure.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02XRL0SMOP8=",
+  "dgSpecHash": "sw9riMuXHv8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+  "projectFilePath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvpacheco\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\jvpacheco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -42,9 +42,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 16.0.0 foi resolvida.",
-      "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+      "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+      "filePath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net9.0"

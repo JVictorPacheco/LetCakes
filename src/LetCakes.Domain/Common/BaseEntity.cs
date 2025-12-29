@@ -9,6 +9,6 @@ public abstract class BaseEntity
 
     public DateTime? UpdatedAt {get; set;} // Data e hora da última atualização da entidade, que pode ser nula se a entidade nunca foi atualizada.
 
-    public bool IsActivate {get; set;} = true; // Indica se a entidade está ativa ou não, com valor padrão como true.
-    
+    public bool IsActive {get; set;} = true; // Indica se a entidade está ativa ou não, com valor padrão como true.
+
 }

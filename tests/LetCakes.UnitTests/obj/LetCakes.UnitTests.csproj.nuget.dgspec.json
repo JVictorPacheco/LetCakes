@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj": {}
+    "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj": {}
   },
   "projects": {
     "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj": {
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
-                "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
+              "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+                "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+    "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
         "projectName": "LetCakes.Domain",
-        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
         "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
+        "outputPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj": {
+    "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+        "projectUniqueName": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
         "projectName": "LetCakes.UnitTests",
-        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+        "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
         "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\obj\\",
+        "outputPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -169,8 +169,8 @@
               "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj": {
                 "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj"
               },
-              "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
-                "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
+              "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+                "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
               }
             }
           }

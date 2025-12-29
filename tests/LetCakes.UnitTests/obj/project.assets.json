@@ -1734,11 +1734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+      "projectUniqueName": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
       "projectName": "LetCakes.UnitTests",
-      "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
+      "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\LetCakes.UnitTests.csproj",
       "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\obj\\",
+      "outputPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\tests\\LetCakes.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1756,8 +1756,8 @@
             "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj": {
               "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Application\\LetCakes.Application.csproj"
             },
-            "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
-              "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
+            "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+              "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj"
             }
           }
         }

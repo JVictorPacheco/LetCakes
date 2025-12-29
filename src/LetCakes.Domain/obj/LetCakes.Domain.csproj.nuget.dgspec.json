@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {}
+    "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
+    "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
         "projectName": "LetCakes.Domain",
-        "projectPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
+        "projectPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\LetCakes.Domain.csproj",
         "packagesPath": "C:\\Users\\jvpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
+        "outputPath": "c:\\Users\\jvpacheco\\OneDrive - Unimed FDRJ\\Área de Trabalho\\.NET\\LetCakes\\src\\LetCakes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"

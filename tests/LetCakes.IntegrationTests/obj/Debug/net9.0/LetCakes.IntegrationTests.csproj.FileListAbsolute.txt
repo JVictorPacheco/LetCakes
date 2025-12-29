@@ -131,3 +131,8 @@ C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\obj\Debug\net9.0\LetCakes.IntegrationTests.pdb
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\obj\Debug\net9.0\LetCakes.IntegrationTests.genruntimeconfig.cache
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\obj\Debug\net9.0\ref\LetCakes.IntegrationTests.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\bin\Debug\net9.0\Npgsql.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\tests\LetCakes.IntegrationTests\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -53,3 +53,8 @@ C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\Le
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\obj\Debug\net9.0\LetCakes.API.pdb
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\obj\Debug\net9.0\LetCakes.API.genruntimeconfig.cache
 C:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\obj\Debug\net9.0\ref\LetCakes.API.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\bin\Debug\net9.0\Npgsql.dll
+c:\Users\jvpacheco\OneDrive - Unimed FDRJ\Área de Trabalho\.NET\LetCakes\src\LetCakes.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
