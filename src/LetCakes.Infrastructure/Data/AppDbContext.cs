@@ -1,3 +1,11 @@
+// O arquivo AppDbContext.cs define o contexto do banco de dados da aplicação LetCakes,
+// utilizando o Entity Framework Core. Ele gerencia as entidades, suas configurações
+// e aplica lógica automática de auditoria (CreatedAt, UpdatedAt) ao salvar dados. 
+// Além disso, configura índices e filtros globais para otimizar consultas e garantir
+// que apenas entidades ativas sejam retornadas por padrão.
+// De forma resumida , este arquivo é crucial para a interação da aplicação com o banco de dados,
+// garantindo consistência, performance e facilidade de manutenção.
+
 using Microsoft.EntityFrameworkCore;
 using LetCakes.Domain.Common;
 
@@ -37,7 +45,7 @@ public class AppDbContext : DbContext
     /// <param name="modelBuilder">Construtor do modelo de dados</param>
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        base.OnModelCreating(modelBuilder);
+        base.OnModelCreating(modelBuilder); // aqui chama a configuração padrão. Esse modelBuilder vem do EF
 
         // Configurações globais para todas as entidades que herdam de BaseEntity
         foreach (var entityType in modelBuilder.Model.GetEntityTypes())
